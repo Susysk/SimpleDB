@@ -1,3 +1,3 @@
-# PopularMovies
-# Popular_Movies
 #SimpleDB
+
+http://www.cs.bc.edu/~sciore/simpledb/intro.html
